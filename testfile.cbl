@@ -9,7 +9,7 @@
        MAIN-PARA.
            INITIALIZE WS-VAR1, WS-VAR2.
            MOVE 1234 TO WS-VAR1.
-           MOVE 12.34 TO WS-VAR2.
+           MOVE 1234 TO WS-VAR2.
            COMPUTE WS-VAR3 = WS-VAR1 + WS-VAR2.
            DISPLAY 'RESULT IS : ',WS-VAR3.
            STOP RUN.
