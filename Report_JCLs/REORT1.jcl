@@ -1,7 +1,7 @@
 //REPORT1 JOB REPORTJCL,MSGLEVEL=(2,0),CLASS=A,MSGCLASS=X,
 //            NOTIFY=&SYSUID
 //*
-//*********************************************************
+//********************************************************
 //STEP01    EXEC PGM=SORT 
 //SYSPRINT  DD SYSOUT=*
 //SYSOUT    DD SYSOUT=*
