@@ -1,0 +1,55 @@
+1                Student Details Printed on 03/18/2023 AT 07:47:33
+                 --------------- ---------------------------------
+1
+               Class X Students Details Page     1    on  03-18-2023
+               ------------------------
+-
+
+
+   Department: dept1
+
+ Std Num   Std Name           Department     Total Marks
+ -------   --------           ----------     -----------
+ 00001     student1           dept1          560
+ 00007     student7           dept1          530
+ 00003     student3           dept1          540
+
+0    Max Marks   =        560
+     Min Marks   =        530
+     Avg Marks   =        543
+1
+               Class X Students Details Page     2    on  03-18-2023
+               ------------------------
+-
+
+
+   Department: dept2
+
+ Std Num   Std Name           Department     Total Marks
+ -------   --------           ----------     -----------
+ 00002     student2           dept2          520
+ 00004     student4           dept2          500
+ 00009     student9           dept2          520
+ 00010     student10          dept2          505
+
+0    Max Marks   =        520
+     Min Marks   =        500
+     Avg Marks   =        511
+1
+               Class X Students Details Page     3    on  03-18-2023
+               ------------------------
+-
+
+
+   Department: dept3
+
+ Std Num   Std Name           Department     Total Marks
+ -------   --------           ----------     -----------
+ 00011     student11          dept3          510
+ 00008     student8           dept3          510
+ 00005     student5           dept3          510
+ 00006     student6           dept3          550
+
+0    Max Marks   =        550
+     Min Marks   =        510
+     Avg Marks   =        520
