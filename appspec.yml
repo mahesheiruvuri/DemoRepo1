@@ -4,7 +4,7 @@ files:
   - source: \index.html
     destination: C:\inetpub\wwwroot
   - source: \index.html
-    destination: C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps
+    destination: C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\ROOT
 hooks:
   BeforeInstall:
     - location: \before-install.bat
