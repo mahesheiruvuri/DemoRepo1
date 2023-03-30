@@ -1,8 +1,10 @@
 version: 0.0
 os: windows
 files:
-  - source: \*.*
+  - source: \index.html
     destination: C:\inetpub\wwwroot
+  - source: \index.html
+    destination: C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps
 hooks:
   BeforeInstall:
     - location: \before-install.bat
