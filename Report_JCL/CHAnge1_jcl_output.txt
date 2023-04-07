@@ -1,0 +1,5 @@
+00001     STUDENT1           DEPARTMENT     560       01012020
+00002     STUDENT2           DEPARTMENT     520       02022023
+00003     STUDENT3           DEPARTMENT     540       03032023
+00004     STUDENT4           depart         500       04042022
+00005     STUDENT5           DEPARTMENT     510       01012020
